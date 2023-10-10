@@ -29,21 +29,24 @@ namespace DDD.Application.Api.Controllers
             return Ok(_funcionarioRepository.GetFuncionarioById(id));
         }
 
+
+
         [HttpPost]
-        [ProducesResponseType(StatusCodes.Status201Created)]
-        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+
         public ActionResult<Funcionario> CreateFuncionario(Funcionario funcionario)
         {
+            //Validação
             if (funcionario.Nome.Length < 3 || funcionario.Nome.Length > 30)
             {
-                return BadRequest("Nome deve ser maior que 3 e menor que 30 caracteres.");
+                return BadRequest("Nome não pode ser menor que 3 ou maior que 30 caracteres");
             }
             _funcionarioRepository.InsertFuncionario(funcionario);
             return CreatedAtAction(nameof(GetById), new { id = funcionario.UserId }, funcionario);
         }
+         
 
         [HttpPut]
-        public ActionResult Put([FromBody] Funcionario funcionario)
+        public ActionResult<Funcionario> Put([FromBody] Funcionario funcionario)
         {
             try
             {

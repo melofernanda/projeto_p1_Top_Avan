@@ -33,17 +33,17 @@ namespace DDD.Infra.SQLServer.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Setores",
+                name: "Setor",
                 columns: table => new
                 {
                     SetorId = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    NomeSetor = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Nome = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Bloco = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Setores", x => x.SetorId);
+                    table.PrimaryKey("PK_Setor", x => x.SetorId);
                 });
 
             migrationBuilder.CreateTable(
@@ -67,9 +67,9 @@ namespace DDD.Infra.SQLServer.Migrations
                         principalColumn: "UserId",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_Contratacoes_Setores_SetorId",
+                        name: "FK_Contratacoes_Setor_SetorId",
                         column: x => x.SetorId,
-                        principalTable: "Setores",
+                        principalTable: "Setor",
                         principalColumn: "SetorId",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -95,7 +95,7 @@ namespace DDD.Infra.SQLServer.Migrations
                 name: "Funcionario");
 
             migrationBuilder.DropTable(
-                name: "Setores");
+                name: "Setor");
 
             migrationBuilder.DropSequence(
                 name: "UserSequence");

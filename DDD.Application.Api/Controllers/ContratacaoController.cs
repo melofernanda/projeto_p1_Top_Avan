@@ -31,49 +31,13 @@ namespace DDD.Application.Api.Controllers
         [HttpPost]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public ActionResult<Contratacao> CreateContratacao(int idFuncionario, int idSetor)
+        public ActionResult<Contratacao> CreateContratacao(int idSetor, int idFuncionario)
         {
-            Contratacao contratacaoIdSaved = _contratacaoRepository.InsertContratacao(idFuncionario, idSetor);
+            Contratacao contratacaoIdSaved = _contratacaoRepository.InsertContratacao(idSetor, idFuncionario);
             return CreatedAtAction(nameof(GetById), new { id = contratacaoIdSaved.ContratacaoId }, contratacaoIdSaved);
         }
 
-        //[HttpPut]
-        //public ActionResult Put([FromBody] Aluno aluno)
-        //{
-        //    try
-        //    {
-        //        if (aluno == null)
-        //            return NotFound();
-
-        //        _alunoRepository.UpdateAluno(aluno);
-        //        return Ok("Cliente Atualizado com sucesso!");
-        //    }
-        //    catch (Exception)
-        //    {
-
-        //        throw;
-        //    }
-        //}
-
-        //// DELETE api/values/5
-        //[HttpDelete()]
-        //public ActionResult Delete([FromBody] Aluno aluno)
-        //{
-        //    try
-        //    {
-        //        if (aluno == null)
-        //            return NotFound();
-
-        //        _alunoRepository.DeleteAluno(aluno);
-        //        return Ok("Cliente Removido com sucesso!");
-        //    }
-        //    catch (Exception ex)
-        //    {
-
-        //        throw ex;
-        //    }
-
-        //}
+        
 
     }
 }

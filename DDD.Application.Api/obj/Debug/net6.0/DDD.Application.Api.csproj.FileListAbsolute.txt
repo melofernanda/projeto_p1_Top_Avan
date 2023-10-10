@@ -92,3 +92,285 @@ D:\6 SEMESTRE\p1 topicos avançados\DDD.Universidade\PlataformaUniversidadeDDD\D
 D:\6 SEMESTRE\p1 topicos avançados\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\6 SEMESTRE\p1 topicos avançados\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\6 SEMESTRE\p1 topicos avançados\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.exe
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.deps.json
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.runtimeconfig.json
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.AssemblyReference.cache
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfoInputs.cache
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfo.cs
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Application.Api.props
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Application.Api.props
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Application.Api.props
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\scopedcss\bundle\DDD.Application.Api.styles.css
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CopyComplete
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\refint\DDD.Application.Api.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.genruntimeconfig.cache
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\ref\DDD.Application.Api.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.exe
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.deps.json
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.runtimeconfig.json
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfo.cs
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Application.Api.props
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Application.Api.props
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Application.Api.props
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\scopedcss\bundle\DDD.Application.Api.styles.css
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CopyComplete
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\refint\DDD.Application.Api.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.genruntimeconfig.cache
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\ref\DDD.Application.Api.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.exe
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.deps.json
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.runtimeconfig.json
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.AssemblyReference.cache
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfoInputs.cache
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfo.cs
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Application.Api.props
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Application.Api.props
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Application.Api.props
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\scopedcss\bundle\DDD.Application.Api.styles.css
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CopyComplete
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\refint\DDD.Application.Api.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.genruntimeconfig.cache
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Application.Api\obj\Debug\net6.0\ref\DDD.Application.Api.dll

@@ -1,7 +1,8 @@
 using DDD.Domain.RH;
 using DDD.Infra.SQLServer.Interfaces;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
 
 namespace DDD.Application.Api.Controllers
 {
@@ -9,37 +10,42 @@ namespace DDD.Application.Api.Controllers
     [ApiController]
     public class SetorController : ControllerBase
     {
-        readonly ISetorRepository _setorRepository;
+        private readonly ISetorRepository _setorRepository;
 
         public SetorController(ISetorRepository setorRepository)
         {
             _setorRepository = setorRepository;
         }
 
-        // GET: api/<FuncionarioController>
         [HttpGet]
         public ActionResult<List<Setor>> Get()
         {
-            return Ok(_setorRepository.GetSetores());
+            var setores = _setorRepository.GetSetores();
+            return Ok(setores);
         }
 
         [HttpGet("{id}")]
         public ActionResult<Setor> GetById(int id)
         {
-            return Ok(_setorRepository.GetSetorById(id));
+            var setor = _setorRepository.GetSetorById(id);
+            if (setor == null)
+            {
+                return NotFound();
+            }
+            return Ok(setor);
         }
 
         [HttpPost]
-        [ProducesResponseType(StatusCodes.Status201Created)]
-        [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public ActionResult<Funcionario> CreateSetor(Setor setor)
+        public ActionResult<Setor> CreateSetor([FromBody] Setor setor)
         {
-            _setorRepository.InsertSetor(setor);
-            return CreatedAtAction(nameof(GetById), new { id = setor.SetorId }, setor);
+            
+           _setorRepository.InsertSetor(setor);
+           return CreatedAtAction(nameof(GetById), new { id = setor.SetorId }, setor);
+           
         }
 
         [HttpPut]
-        public ActionResult Put([FromBody] Setor setor)
+        public ActionResult UpdateSetor([FromBody] Setor setor)
         {
             try
             {
@@ -47,7 +53,7 @@ namespace DDD.Application.Api.Controllers
                     return NotFound();
 
                 _setorRepository.UpdateSetor(setor);
-                return Ok("Setor atualizado com sucesso!");
+                return Ok("setor atualizado com sucesso!");
             }
             catch (Exception)
             {
@@ -55,26 +61,27 @@ namespace DDD.Application.Api.Controllers
                 throw;
             }
         }
+    
 
-        // DELETE api/values/5
-        [HttpDelete()]
-        public ActionResult Delete([FromBody] Setor setor)
+        [HttpDelete("{id}")]
+        public ActionResult DeleteSetor(int id)
         {
+            var setor = _setorRepository.GetSetorById(id);
+            if (setor == null)
+            {
+                return NotFound();
+            }
+
             try
             {
-                if (setor == null)
-                    return NotFound();
-
                 _setorRepository.DeleteSetor(setor);
                 return Ok("Setor removido com sucesso!");
             }
             catch (Exception ex)
             {
-
-                throw ex;
+                // Log de erro ou tratamento de exceção
+                return StatusCode(500, $"Erro interno do servidor: {ex.Message}");
             }
-
         }
-
     }
 }

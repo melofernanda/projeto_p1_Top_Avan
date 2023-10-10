@@ -64,13 +64,13 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.Property<int>("Bloco")
                         .HasColumnType("int");
 
-                    b.Property<string>("NomeSetor")
+                    b.Property<string>("Nome")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("SetorId");
 
-                    b.ToTable("Setores");
+                    b.ToTable("Setor", (string)null);
                 });
 
             modelBuilder.Entity("DDD.Domain.UserManagementContext.User", b =>

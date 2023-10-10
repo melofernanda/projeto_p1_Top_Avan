@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DDD.Infra.SQLServer.Migrations
 {
     [DbContext(typeof(SqlContext))]
-    [Migration("20231004002103_CriacaoInicial")]
+    [Migration("20231010183058_CriacaoInicial")]
     partial class CriacaoInicial
     {
         /// <inheritdoc />
@@ -67,13 +67,13 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.Property<int>("Bloco")
                         .HasColumnType("int");
 
-                    b.Property<string>("NomeSetor")
+                    b.Property<string>("Nome")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("SetorId");
 
-                    b.ToTable("Setores");
+                    b.ToTable("Setor", (string)null);
                 });
 
             modelBuilder.Entity("DDD.Domain.UserManagementContext.User", b =>

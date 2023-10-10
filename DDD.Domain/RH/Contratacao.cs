@@ -13,7 +13,7 @@ namespace DDD.Domain.RH
 
         public Funcionario Funcionario { get; set; }
 
-
+        public int SetorId { get; set; }
         public Setor Setor { get; set; }      
 
         public DateTime DataContratacao { get; set; }

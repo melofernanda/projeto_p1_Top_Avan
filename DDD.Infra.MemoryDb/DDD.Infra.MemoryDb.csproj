@@ -7,17 +7,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Interfaces\**" />
+    <Compile Remove="Repositories\**" />
+    <EmbeddedResource Remove="Interfaces\**" />
+    <EmbeddedResource Remove="Repositories\**" />
+    <None Remove="Interfaces\**" />
+    <None Remove="Repositories\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.10" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\DDD.Domain\DDD.Domain.csproj" />
     <ProjectReference Include="..\DDD.Infra.SQLServer\DDD.Infra.SQLServer.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Interfaces\" />
-    <Folder Include="Repositories\" />
   </ItemGroup>
 
 </Project>

@@ -24,12 +24,12 @@ namespace DDD.Infra.SQLServer.Repositories
 
         public Contratacao GetContratacaoById(int id)
         {
-            throw new NotImplementedException();
+            return _context.Contratacoes.Find(id);
         }
 
         public List<Contratacao> GetContratacoes()
         {
-            throw new NotImplementedException();
+            return _context.Contratacoes.ToList();
         }
 
         public Contratacao InsertContratacao(int idSetor, int idFuncionario)

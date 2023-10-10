@@ -15,3 +15,54 @@ D:\6 SEMESTRE\p1 topicos avançados\DDD.Universidade\PlataformaUniversidadeDDD\D
 D:\6 SEMESTRE\p1 topicos avançados\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
 D:\6 SEMESTRE\p1 topicos avançados\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
 D:\6 SEMESTRE\p1 topicos avançados\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.deps.json
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.AssemblyReference.cache
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfoInputs.cache
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfo.cs
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CopyComplete
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\alexa\Source\Repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.deps.json
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfo.cs
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CopyComplete
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\alexa\source\repos\backup p1\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.deps.json
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.AssemblyReference.cache
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfoInputs.cache
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfo.cs
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CopyComplete
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\Fernanda\source\repos\projeto_p1_Top_Avan\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll

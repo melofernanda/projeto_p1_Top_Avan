@@ -12,10 +12,12 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddScoped<IFuncionarioRepository, FuncionarioRepositorySqlServer>();
 builder.Services.AddScoped<ISetorRepository, SetorRepositorySqlServer>();
 builder.Services.AddScoped<IContratacaoRepository, ContratacaoRepositorySqlServer>();
+
 builder.Services.AddScoped<SqlContext, SqlContext>();
 
+
 builder.Services.AddControllers().AddJsonOptions(x =>
-   x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve);
+    x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve);
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

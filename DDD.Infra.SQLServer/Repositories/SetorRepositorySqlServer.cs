@@ -4,8 +4,6 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DDD.Infra.SQLServer.Repositories
 {
@@ -18,17 +16,9 @@ namespace DDD.Infra.SQLServer.Repositories
             _context = context;
         }
 
-        public void DeleteSetor(Setor setor)
+        public List<Setor> GetSetores()
         {
-            try
-            {
-                _context.Set<Setor>().Remove(setor);
-                _context.SaveChanges();
-            }
-            catch (Exception ex)
-            {
-                throw ex;
-            }
+            return _context.Setores.ToList();
         }
 
         public Setor GetSetorById(int id)
@@ -36,37 +26,22 @@ namespace DDD.Infra.SQLServer.Repositories
             return _context.Setores.Find(id);
         }
 
-        public List<Setor> GetSetores()
-        {
-            return _context.Setores.ToList();
-        }
-
         public void InsertSetor(Setor setor)
         {
-            try
-            {
-                _context.Setores.Add(setor);
-                _context.SaveChanges();
-            }
-            catch (Exception ex)
-            {
-                //log
-            }
+            _context.Setores.Add(setor);
+            _context.SaveChanges();
         }
 
         public void UpdateSetor(Setor setor)
         {
-            try
-            {
-                _context.Entry(setor).State = EntityState.Modified;
-                _context.SaveChanges();
+            _context.Entry(setor).State = EntityState.Modified;
+            _context.SaveChanges();
+        }
 
-            }
-            catch (Exception ex)
-            {
-
-                throw ex;
-            }
+        public void DeleteSetor(Setor setor)
+        {
+            _context.Setores.Remove(setor);
+            _context.SaveChanges();
         }
     }
 }
